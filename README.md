@@ -5,9 +5,7 @@ I am a CS graduate from UofA and I've had the privilege to work on diverse proje
 QUALIFICATION SUMMARY
 
 • Have experience in machine learning, data analysis, web development, software development and database.
-
 • Have an M.Sc. degree in Computing Science from the University of Alberta with a research focus on Cheminformatics and Machine Learning. 
-
 • Have experience in successfully developing and deploying Cheminformatics AI predictive tools like RIpred (https://ripred.ca/) and EI-MS pred (https://github.com/Afia-Anjum/ei_ms_pred) for the GC-MS community. 
 
 • Have publications in leading journals including Nucleic Acids Research (NAR), Journal of Chromatography A (J. Chromatogr. A), and Data in Brief. 
