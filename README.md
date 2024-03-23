@@ -1,6 +1,5 @@
 ### Salam|Hello fellow developers! Welcome to my corner of the coding universe! 🚀 👋
 
-<!--
 **Afia-Anjum/Afia-Anjum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I am a CS graduate from UofA and I've had the privilege to work on diverse projects in order to build machine learning tools in the field of NLP and Cheminformatics.
 
@@ -32,4 +31,3 @@ KEY SKILLS:
 - 🔭 I’m currently working with LLM models for cheminformatics and drug discovery 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have interest in gardening and travelling. Also, I chase for Aurora and its shimmering dance across the night sky.
--->
