@@ -12,7 +12,7 @@ My qualification and key skills are listed below:
 
 - Have experience in machine learning, data analysis, web development, software development and database.
 - Have an M.Sc. degree in Computing Science from the University of Alberta with a research focus on Cheminformatics and Machine Learning. 
-- Have experience in successfully developing and deploying Cheminformatics AI predictive tools like RIpred (https://ripred.ca/) and EI-MS pred (https://github.com/Afia-Anjum/ei_ms_pred) for the GC-MS community. 
+- Have experience in successfully developing and deploying Cheminformatics AI predictive tools like RIpred (https://ripred.ca/) and EI-MS pred (https://gcms-id.ca/) for the GC-MS community. 
 - Have publications in leading journals including Nucleic Acids Research (NAR), Journal of Chromatography A (J. Chromatogr. A), and Data in Brief. 
 - Have 2.5 years of experience in teaching undergraduate CSE courses at Daffodil International University as a full time Lecturer.
 - Have experience in TAing several undergraduate courses (CMPUT 174 & CMPUT 201) at the University of Alberta, CS department.
